@@ -47,7 +47,7 @@ sulfhídrico (H2S), dióxido de nitrógeno (NO2), ozono (O3), material particula
 y dióxido de azufre SO2.
 
 
-Los datos dde obtuvieron de [https://www.datosabiertos.gob.pe/dataset/monitoreo-de-calidad-de-aire-qaira%C2%A0-municipalidad-de-miraflores](https://www.datosabiertos.gob.pe/dataset/monitoreo-de-calidad-de-aire-qaira%C2%A0-municipalidad-de-miraflores)
+Los datos se obtuvieron de [https://www.datosabiertos.gob.pe/dataset/monitoreo-de-calidad-de-aire-qaira%C2%A0-municipalidad-de-miraflores](https://www.datosabiertos.gob.pe/dataset/monitoreo-de-calidad-de-aire-qaira%C2%A0-municipalidad-de-miraflores)
 
 ¡EMPIEZA YA!
 """)
