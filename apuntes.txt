@@ -1,0 +1,34 @@
+# Configurar la llave
+# Setear datos
+git config --global user.email "milagros.marcelo@upch.pe"
+git config --global user.name "Milagros Marcelo"
+
+# Para clonar (una sola vez)
+git clone git@github.com:milagro20/proyecto-final-calidad-del-aire.git
+# Para jalar y subir cambios (cada vez que haces un cambio importante)
+cd 'ruta-del-proyecto'
+git pull && git add . && git commit -m "." && git push
+
+# URL del proyecto git
+https://github.com/milagro20/proyecto-final-calidad-del-aire
+# URL del proyecto en streamlit cloud
+https://share.streamlit.io/milagro20/proyecto-final-calidad-del-aire/main
+
+# Creacion de entornos virtuales
+python -m venv env
+# Activar entorno virtual, para que todo lo que se instale se hgaga sobre ese entorno, no sobre tu pc
+cd entorno-virtual
+cd Scripts
+activate
+cd ../..
+
+.\env\Scripts\activate
+
+# Generacion del requeriments.txt
+pip freeze > requirements.txt
+
+pip install pipreqs
+pipreqs --encoding=utf8 --force
+
+# Levantar streamlit
+streamlit run streamlit_app.py
