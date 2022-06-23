@@ -17,5 +17,5 @@ Utilizamos las siguiente librerias y las importamos
 import pandas as pd
 import matplotlib as mpt
 import numpy as np
-import streamlit
+import streamlit as st
 ```
