@@ -44,7 +44,7 @@ Este proyecto tiene como principal objetivo la comparación de los datos obtenid
 Gracias a esto, se pudieron generar gráficos de barras en los cuales se puede apreciar la
 concentración mensual en (ug/m3) de contaminantes como el monóxido de carbono (CO), ácido
 sulfhídrico (H2S), dióxido de nitrógeno (NO2), ozono (O3), material particulado PM10 y PM2.5,
-y dióxido de azufre SO2. 
+y dióxido de azufre SO2.
 
 
 Los datos dde obtuvieron de [https://www.datosabiertos.gob.pe/dataset/monitoreo-de-calidad-de-aire-qaira%C2%A0-municipalidad-de-miraflores](https://www.datosabiertos.gob.pe/dataset/monitoreo-de-calidad-de-aire-qaira%C2%A0-municipalidad-de-miraflores)
