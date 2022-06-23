@@ -6,7 +6,6 @@ import numpy as np
 #from pandas._libs import index
 import matplotlib
 import matplotlib.pyplot as plt
-from xlrd import read_excel
 
 # Carga de datos (Todos los que vayas a utilizar)
 link_jul_2020 = "https://www.datosabiertos.gob.pe/sites/default/files/Monitoreo_julio.xlsx"
