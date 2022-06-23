@@ -10,7 +10,7 @@ Proyecto final del curso, utilizamos la data sobre la concentración de los cont
 * Vilca Benites, Karla Mishell
 * Zimic Sheen, Alen Mirko
 
-## Esto es un subtitulo  2
+## Librerías utilizadas:
 Utilizamos las siguiente librerias y las importamos
 
 ```
